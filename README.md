@@ -76,7 +76,7 @@ Objetos anônimos são usados para retorno.
 
 Clonar o repositório:
 
-git clone [https://github.com/PedroPriuli/TestKasilBlogPost/.git
+git clone [https://github.com/PedroPriuli/TestKasilBlogPost/tree/main]
 
 Acessar o diretório
 
