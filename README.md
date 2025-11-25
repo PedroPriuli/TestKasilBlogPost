@@ -72,7 +72,9 @@ SQL é carregado a partir dos arquivos .sql.
 
 Objetos anônimos são usados para retorno.
 
-#Como Executar o Projeto
+# Como Executar o Projeto
+
+*Descompactar o arquivo .7z em sua máquina local
 
 Clonar o repositório:
 
